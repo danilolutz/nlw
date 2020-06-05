@@ -85,7 +85,7 @@ const CreatePoint = () => {
         setSelectedUf(uf);
     }
 
-    function handleSelectCityf(event: ChangeEvent<HTMLSelectElement>) {
+    function handleSelectCity(event: ChangeEvent<HTMLSelectElement>) {
         const city = event.target.value;
         setSelectedCity(city);
     }
@@ -236,7 +236,7 @@ const CreatePoint = () => {
                                 name="city"
                                 id="city"
                                 value={selectedCity}
-                                onChange={handleSelectCityf}
+                                onChange={handleSelectCity}
                             >
                                 <option value="0">Selecione uma cidade</option>
                                 {cities.map(city =>(
