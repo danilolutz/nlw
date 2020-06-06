@@ -4,8 +4,15 @@ Intensive training week on NodeJS, ReacJs and React Native stack by @Rocketseat.
 
 ## Project Structure
 
-*Server* folder has the backend api.
+![Ecoleta](/web/src/assets/logo.svg)
 
-*Web* folder has the web app client.
+The proposal is create an app to collect recyclable items called **Ecoleta**.
 
-*Mobile* folder has the mobile app client.
+- We must register collect points.
+- We must serach the collect points.
+
+**Server** folder has the backend api.
+
+**Web** folder has the web app client.
+
+**Mobile** folder has the mobile app client.
