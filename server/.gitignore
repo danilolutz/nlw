@@ -1,2 +1,5 @@
 node_modules
 *.sqlite
+uploads/points/*
+!uploads/points/.gitkeep
+.env
