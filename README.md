@@ -20,7 +20,7 @@ The proposal is create an app to collect recyclable items called **Ecoleta**.
 ![Ecoleta](/web/src/assets/home-background.svg)
 
 ## :scroll: License
-The CoreZipCode is open-sourced software licensed under the MIT license.
+The Ecoleta is open-sourced software licensed under the MIT license.
 
 ---
 
